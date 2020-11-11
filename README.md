@@ -1,2 +1,4 @@
 # Simple-Rest-Service
-Rest service for a weather app
+
+
+Custom Rest API-Service for Weather Ap. 
